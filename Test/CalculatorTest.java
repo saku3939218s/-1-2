@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
- class CalculatorTest {
+class CalculatorTest {
     Calculator calc = new Calculator();
     @Test
     void kic0() {
