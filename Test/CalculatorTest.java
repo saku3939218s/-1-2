@@ -47,5 +47,4 @@ class CalculatorTest {
         String actual = calc . kic ( 3000 );
         String expected = "EEEE";
         assertEquals (expected, actual);
-    }
-}
+    }}
